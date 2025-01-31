@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Yellowtail';
+    font-weight: normal;
+    font-style: normal;
+    src: url('../fonts/Yellowtail-Regular.woff') format('woff'),
+         url('../fonts/Yellowtail-Regular.ttf') format('truetype');
+}
